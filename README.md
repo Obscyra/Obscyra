@@ -15,50 +15,44 @@
 
 ---
 
-## 👻 About Me
+## About
 
-```kotlin
-object Magnum {
-    val handle    = "Obscyra"
-    val role      = "Tech Explorer"
-    val mindset   = listOf("curious", "relentless", "ship-it")
-    val currently = "Building open-source apps & learning something new every day"
-}
-```
+I build practical, well-finished software: desktop applications, Android apps and web tools. My focus is on clean interfaces, offline-first design and open source that people can use without friction.
 
-- 🔭 Building polished, user-first software — from desktop apps to Android and IoT
-- 🌱 Always learning: systems, mobile, and modern web
-- 🕶️ Prefer quiet work and loud results
+- Shipping open-source applications such as a full-featured, ad-free Quran desktop app
+- Working across Kotlin, Svelte, JavaScript and C
+- Exploring IoT, mobile and systems programming
+- Continuously learning and iterating
 
-## 🛠️ Tech Arsenal
+## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,android,svelte,js,html,css,c,git,github,linux,vscode&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,js,html,css,c,git,github,linux,vscode&theme=dark" alt="Technologies" />
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 📖 [**quran-desktop**](https://github.com/Obscyra/quran-desktop) | Free, open-source Quran app for Windows & macOS — exact Madani Mushaf, word-by-word recitation, 17 reciters, 120+ translations, tajweed, offline, no ads. | ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white) |
-| 🌳 [**IoTree**](https://github.com/Obscyra/IoTree) | Mobile app project exploring IoT. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| 🎬 [**Aurum-Cuts**](https://github.com/Obscyra/Aurum-Cuts) | Cinematic video editing for the modern creator. | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| 🗓️ [**Event-Ease**](https://github.com/Obscyra/Event-Ease) | Terminal-based event management system written purely in C. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [**quran-desktop**](https://github.com/Obscyra/quran-desktop) | Free, open-source Quran app for Windows and macOS. Exact Madani Mushaf, word-by-word recitation, 17 reciters, 120+ translations, tajweed, offline, no ads. | ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white) |
+| [**IoTree**](https://github.com/Obscyra/IoTree) | Mobile application exploring IoT. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| [**Aurum-Cuts**](https://github.com/Obscyra/Aurum-Cuts) | Cinematic video editing for the modern creator. | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [**Event-Ease**](https://github.com/Obscyra/Event-Ease) | Terminal-based event management system written purely in C. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Obscyra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obscyra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="top langs" />
-
-<img src="https://streak-stats.demolab.com?user=Obscyra&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
+![Followers](https://img.shields.io/github/followers/Obscyra?style=flat-square&color=6d28d9&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/Obscyra/quran-desktop?style=flat-square&color=6d28d9&labelColor=0f0c29&label=quran-desktop%20stars)
+![Last commit](https://img.shields.io/github/last-commit/Obscyra/quran-desktop?style=flat-square&color=6d28d9&labelColor=0f0c29)
+![Top language](https://img.shields.io/github/languages/top/Obscyra/quran-desktop?style=flat-square&color=6d28d9&labelColor=0f0c29)
 
 </div>
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
