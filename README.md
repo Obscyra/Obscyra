@@ -7,6 +7,7 @@
 I make thoughtful software across desktop, mobile, web, and systems. I care about useful details: interfaces that feel good, tools that work offline, and projects people can actually use.
 
 [![Explore my work](https://img.shields.io/badge/Explore%20my%20work-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Obscyra?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fahimshahriar.pages.dev)
 [![Quran Desktop](https://img.shields.io/badge/Featured%20project-Quran%20Desktop-c99b43?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Obscyra/quran-desktop)
 [![Profile views](https://komarev.com/ghpvc/?username=Obscyra&style=for-the-badge&color=312e81&label=VISITORS)](https://github.com/Obscyra)
 
@@ -61,7 +62,7 @@ Most days that means Kotlin and Android for mobile, Svelte and TypeScript for in
 
 ## Say hello
 
-Have an idea, a question, or a useful issue to share? Find me on [GitHub](https://github.com/Obscyra) or open a discussion in one of the projects.
+Have an idea, a question, or a useful issue to share? [Visit my portfolio](https://fahimshahriar.pages.dev) to learn more about me, find me on [GitHub](https://github.com/Obscyra), or open a discussion in one of the projects.
 
 <div align="center">
 
