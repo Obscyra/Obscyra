@@ -1,63 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Magnum&fontSize=70&fontColor=e0e0ff&fontAlignY=38&desc=Phantom%20in%20the%20System&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,45:312e81,100:7c3aed&height=220&section=header&text=Magnum&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Building%20useful%20things%20with%20care.&descSize=18&descAlignY=61&animation=fadeIn" width="100%" alt="Magnum — building useful things with care" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Tech+Explorer;Constantly+Learning+%E2%80%94+Powered+by+Curiosity;Building+tools+people+actually+use;Open+source+%7C+Android+%7C+Web+%7C+Systems" alt="Typing SVG" />
-</a>
+### Independent developer · Open source · Always learning
 
-<br/>
+I make thoughtful software across desktop, mobile, web, and systems. I care about useful details: interfaces that feel good, tools that work offline, and projects people can actually use.
 
-![Profile views](https://komarev.com/ghpvc/?username=Obscyra&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Obscyra?style=for-the-badge&color=6d28d9&logo=github)
+[![Explore my work](https://img.shields.io/badge/Explore%20my%20work-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Obscyra?tab=repositories)
+[![Quran Desktop](https://img.shields.io/badge/Featured%20project-Quran%20Desktop-c99b43?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Obscyra/quran-desktop)
+[![Profile views](https://komarev.com/ghpvc/?username=Obscyra&style=for-the-badge&color=312e81&label=VISITORS)](https://github.com/Obscyra)
 
 </div>
 
 ---
 
-## About
-
-I build practical, well-finished software: desktop applications, Android apps and web tools. My focus is on clean interfaces, offline-first design and open source that people can use without friction.
-
-- Shipping open-source applications such as a full-featured, ad-free Quran desktop app
-- Working across Kotlin, Svelte, JavaScript and C
-- Exploring IoT, mobile and systems programming
-- Continuously learning and iterating
-
-## Technologies
+## Featured · Quran Desktop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,js,html,css,c,git,github,linux,vscode&theme=dark" alt="Technologies" />
+### A calm, capable Quran reader for your desktop.
+
+Read the Madani Mushaf page for page, study verse by verse, or listen and follow along. The complete Arabic text is bundled, so reading works offline from the first launch.
+
+[**Get Quran Desktop**](https://github.com/Obscyra/quran-desktop/releases/latest) · [**Try the live demo**](https://qurandesktop.netlify.app) · [**Explore the source**](https://github.com/Obscyra/quran-desktop)
 
 </div>
 
-## Featured Projects
+| Read | Listen | Make it yours |
+|:---|:---|:---|
+| Madani Mushaf pages, verse-by-verse study, translations, transliteration, word meanings, and Tajweed styles. | Follow recitation word by word, browse 100+ additional listen-only reciters, and save audio for offline listening. | Windows, macOS, and Linux builds; 15 themes; bookmarks and notes; tray mode; no accounts, ads, or tracking. |
 
-| Project | Description | Stack |
-|---|---|---|
-| [**quran-desktop**](https://github.com/Obscyra/quran-desktop) | Free, open-source Quran app for Windows and macOS. Exact Madani Mushaf, word-by-word recitation, 17 reciters, 120+ translations, tajweed, offline, no ads. | ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white) |
-| [**IoTree**](https://github.com/Obscyra/IoTree) | Mobile application exploring IoT. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| [**Aurum-Cuts**](https://github.com/Obscyra/Aurum-Cuts) | Cinematic video editing for the modern creator. | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| [**Event-Ease**](https://github.com/Obscyra/Event-Ease) | Terminal-based event management system written purely in C. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+> Quran Desktop is free and open source. It is currently in beta; if you spot an issue in the Arabic text, please report it through the [project repository](https://github.com/Obscyra/quran-desktop/issues).
 
-## GitHub Activity
+## Other projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Obscyra/Event-Ease">Event-Ease</a></h3>
+      <p>A terminal-based event management system, written in C.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Obscyra/C-ToDo">C-ToDo</a></h3>
+      <p>A simple command-line to-do list built in C.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+    </td>
+  </tr>
+</table>
+
+## The toolkit
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Obscyra?style=flat-square&color=6d28d9&labelColor=0f0c29)
-![Stars](https://img.shields.io/github/stars/Obscyra/quran-desktop?style=flat-square&color=6d28d9&labelColor=0f0c29&label=quran-desktop%20stars)
-![Last commit](https://img.shields.io/github/last-commit/Obscyra/quran-desktop?style=flat-square&color=6d28d9&labelColor=0f0c29)
-![Top language](https://img.shields.io/github/languages/top/Obscyra/quran-desktop?style=flat-square&color=6d28d9&labelColor=0f0c29)
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,ts,js,html,css,rust,c,git,github,linux&theme=dark" alt="Kotlin, Android, Svelte, TypeScript, JavaScript, HTML, CSS, Rust, C, Git, GitHub, and Linux" />
 
 </div>
 
-## Connect
+Most days that means Kotlin and Android for mobile, Svelte and TypeScript for interfaces, and C or Rust when I want to understand what is happening closer to the machine.
+
+## Say hello
+
+Have an idea, a question, or a useful issue to share? Find me on [GitHub](https://github.com/Obscyra) or open a discussion in one of the projects.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Obscyra-181717?style=for-the-badge&logo=github)](https://github.com/Obscyra)
+![GitHub followers](https://img.shields.io/github/followers/Obscyra?style=flat-square&color=7c3aed&labelColor=18181b&logo=github)
+![Open source](https://img.shields.io/badge/made%20for-open%20source-7c3aed?style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:312e81,100:09090f&height=100&section=footer" width="100%" alt="" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
