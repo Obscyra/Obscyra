@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fahimshahriar.pages.dev)
 [![Repositories](https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Obscyra?tab=repositories)
 [![Quran Desktop](https://img.shields.io/badge/Quran%20Desktop-c99b43?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Obscyra/quran-desktop)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/738800534793879584)
 [![Visitors](https://komarev.com/ghpvc/?username=Obscyra&style=for-the-badge&color=312e81&label=VISITORS)](https://github.com/Obscyra)
 
 </div>
