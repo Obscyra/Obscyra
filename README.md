@@ -1,74 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,45:312e81,100:7c3aed&height=220&section=header&text=Magnum&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Building%20useful%20things%20with%20care.&descSize=18&descAlignY=61&animation=fadeIn" width="100%" alt="Magnum — building useful things with care" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090f,50:312e81,100:7c3aed&height=240&section=header&text=MAGNUM&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Building%20useful%20things%20with%20care&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Magnum" />
 
-### Independent developer · Open source · Always learning
+<a href="https://github.com/Obscyra">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Independent+developer;Open+source+builder;Desktop+%C2%B7+Mobile+%C2%B7+Web+%C2%B7+Systems;Always+learning" alt="Typing intro" />
+</a>
 
-I make thoughtful software across desktop, mobile, web, and systems. I care about useful details: interfaces that feel good, tools that work offline, and projects people can actually use.
+<br/>
 
-[![Explore my work](https://img.shields.io/badge/Explore%20my%20work-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Obscyra?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fahimshahriar.pages.dev)
-[![Quran Desktop](https://img.shields.io/badge/Featured%20project-Quran%20Desktop-c99b43?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Obscyra/quran-desktop)
-[![Profile views](https://komarev.com/ghpvc/?username=Obscyra&style=for-the-badge&color=312e81&label=VISITORS)](https://github.com/Obscyra)
-
-</div>
-
----
-
-## Featured · Quran Desktop
-
-<div align="center">
-
-### A calm, capable Quran reader for your desktop.
-
-Read the Madani Mushaf page for page, study verse by verse, or listen and follow along. The complete Arabic text is bundled, so reading works offline from the first launch.
-
-[**Get Quran Desktop**](https://github.com/Obscyra/quran-desktop/releases/latest) · [**Try the live demo**](https://qurandesktop.netlify.app) · [**Explore the source**](https://github.com/Obscyra/quran-desktop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fahimshahriar.pages.dev)
+[![Repositories](https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Obscyra?tab=repositories)
+[![Quran Desktop](https://img.shields.io/badge/Quran%20Desktop-c99b43?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Obscyra/quran-desktop)
+[![Visitors](https://komarev.com/ghpvc/?username=Obscyra&style=for-the-badge&color=312e81&label=VISITORS)](https://github.com/Obscyra)
 
 </div>
 
-| Read | Listen | Make it yours |
-|:---|:---|:---|
-| Madani Mushaf pages, verse-by-verse study, translations, transliteration, word meanings, and Tajweed styles. | Follow recitation word by word, browse 100+ additional listen-only reciters, and save audio for offline listening. | Windows, macOS, and Linux builds; 15 themes; bookmarks and notes; tray mode; no accounts, ads, or tracking. |
+<br/>
 
-> Quran Desktop is free and open source. It is currently in beta; if you spot an issue in the Arabic text, please report it through the [project repository](https://github.com/Obscyra/quran-desktop/issues).
-
-## Other projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Obscyra/Event-Ease">Event-Ease</a></h3>
-      <p>A terminal-based event management system, written in C.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Obscyra/C-ToDo">C-ToDo</a></h3>
-      <p>A simple command-line to-do list built in C.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-    </td>
-  </tr>
-</table>
-
-## The toolkit
+## Featured: Quran Desktop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,ts,js,html,css,rust,c,git,github,linux&theme=dark" alt="Kotlin, Android, Svelte, TypeScript, JavaScript, HTML, CSS, Rust, C, Git, GitHub, and Linux" />
+**A calm, capable Quran reader for your desktop.**
+Offline-first · Free · Open source · No accounts, ads, or tracking
+
+[**Download**](https://github.com/Obscyra/quran-desktop/releases/latest) &nbsp;·&nbsp; [**Live demo**](https://qurandesktop.netlify.app) &nbsp;·&nbsp; [**Source**](https://github.com/Obscyra/quran-desktop)
 
 </div>
 
-Most days that means Kotlin and Android for mobile, Svelte and TypeScript for interfaces, and C or Rust when I want to understand what is happening closer to the machine.
+| Read | Listen | Customize |
+|:--|:--|:--|
+| Madani Mushaf pages, verse-by-verse study, translations, Tajweed | Word-by-word recitation, 100+ reciters, offline audio | Win / macOS / Linux, 15 themes, bookmarks, notes, tray mode |
 
-## Say hello
+> In beta. Found an issue in the Arabic text? [Report it here](https://github.com/Obscyra/quran-desktop/issues).
 
-Have an idea, a question, or a useful issue to share? [Visit my portfolio](https://fahimshahriar.pages.dev) to learn more about me, find me on [GitHub](https://github.com/Obscyra), or open a discussion in one of the projects.
+## More projects
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [**Event-Ease**](https://github.com/Obscyra/Event-Ease) | Terminal-based event management system | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [**C-ToDo**](https://github.com/Obscyra/C-ToDo) | Minimal command-line to-do list | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+
+## Toolkit
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Obscyra?style=flat-square&color=7c3aed&labelColor=18181b&logo=github)
-![Open source](https://img.shields.io/badge/made%20for-open%20source-7c3aed?style=flat-square)
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,ts,js,html,css,rust,c,git,github,linux&theme=dark" alt="Toolkit" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:312e81,100:09090f&height=100&section=footer" width="100%" alt="" />
+<sub>Kotlin & Android for mobile · Svelte & TypeScript for UI · C & Rust close to the metal</sub>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/Obscyra?style=flat-square&color=7c3aed&labelColor=18181b&logo=github)
+![Open source](https://img.shields.io/badge/made%20for-open%20source-7c3aed?style=flat-square&labelColor=18181b)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:09090f&height=100&section=footer" width="100%" alt="" />
 
 </div>
